@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="URI">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-P5ECA4J\SHARAFATSQL:sa">
+          <Created>2019-07-05T21:42:39.0828832+06:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-P5ECA4J\SHARAFATSQL</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB>QRCodeString_tbl</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="AAAAA Basic table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-P5ECA4J\SHARAFATSQL:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-P5ECA4J\SHARAFATSQL</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>AAAAA Basic table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Action Movies.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-P5ECA4J\SHARAFATSQL:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-P5ECA4J\SHARAFATSQL</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Action Movies.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Average Value of Products.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-P5ECA4J\SHARAFATSQL:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-P5ECA4J\SHARAFATSQL</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Average Value of Products.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Between.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-P5ECA4J\SHARAFATSQL:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-P5ECA4J\SHARAFATSQL</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Between.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Higher and Lower Price.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-P5ECA4J\SHARAFATSQL:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-P5ECA4J\SHARAFATSQL</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Higher and Lower Price.sql</FullPath>
+        </FileNode>
+        <FileNode Name="no rental.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-P5ECA4J\SHARAFATSQL:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-P5ECA4J\SHARAFATSQL</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>no rental.sql</FullPath>
+        </FileNode>
+        <FileNode Name="number of characters.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-P5ECA4J\SHARAFATSQL:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-P5ECA4J\SHARAFATSQL</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>number of characters.sql</FullPath>
+        </FileNode>
+        <FileNode Name="password.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-P5ECA4J\SHARAFATSQL:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-P5ECA4J\SHARAFATSQL</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>password.sql</FullPath>
+        </FileNode>
+        <FileNode Name="products by categories.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-P5ECA4J\SHARAFATSQL:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-P5ECA4J\SHARAFATSQL</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>products by categories.sql</FullPath>
+        </FileNode>
+        <FileNode Name="providers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-P5ECA4J\SHARAFATSQL:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-P5ECA4J\SHARAFATSQL</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>providers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Replace.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-P5ECA4J\SHARAFATSQL:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-P5ECA4J\SHARAFATSQL</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Replace.sql</FullPath>
+        </FileNode>
+        <FileNode Name="taxes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-P5ECA4J\SHARAFATSQL:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-P5ECA4J\SHARAFATSQL</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>taxes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="The Actors Silva.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-P5ECA4J\SHARAFATSQL:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-P5ECA4J\SHARAFATSQL</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>The Actors Silva.sql</FullPath>
+        </FileNode>
+        <FileNode Name="URI_BasicSelect.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-P5ECA4J\SHARAFATSQL:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-P5ECA4J\SHARAFATSQL</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>URI_BasicSelect.sql</FullPath>
+        </FileNode>
+        <FileNode Name="URI_Categories.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-P5ECA4J\SHARAFATSQL:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-P5ECA4J\SHARAFATSQL</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>URI_Categories.sql</FullPath>
+        </FileNode>
+        <FileNode Name="URI_CustomerAddress.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-P5ECA4J\SHARAFATSQL:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-P5ECA4J\SHARAFATSQL</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>URI_CustomerAddress.sql</FullPath>
+        </FileNode>
+        <FileNode Name="URI_Executive Representatives.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-P5ECA4J\SHARAFATSQL:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-P5ECA4J\SHARAFATSQL</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>URI_Executive Representatives.sql</FullPath>
+        </FileNode>
+        <FileNode Name="URI_Providers' City in Alphabetical Order.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-P5ECA4J\SHARAFATSQL:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-P5ECA4J\SHARAFATSQL</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>URI_Providers' City in Alphabetical Order.sql</FullPath>
+        </FileNode>
+        <FileNode Name="URI_Under 10 or Greater Than 100.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-P5ECA4J\SHARAFATSQL:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-P5ECA4J\SHARAFATSQL</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>URI_Under 10 or Greater Than 100.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
